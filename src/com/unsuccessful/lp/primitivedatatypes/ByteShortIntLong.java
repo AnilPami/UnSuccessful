@@ -1,4 +1,4 @@
-package com.unsuccessful.lp;
+package com.unsuccessful.lp.primitivedatatypes;
 
 public class ByteShortIntLong {
 
